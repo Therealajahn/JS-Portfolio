@@ -19,7 +19,7 @@ back.setAttribute("width", `${backWidth}vw`);
 back.setAttribute("height", `${backHeight}vw`);
 back.setAttribute("x", `${backXspace}vw`);
 back.setAttribute("y", `${backYspace}vw`);
-back.setAttribute("rx", 15);
+back.setAttribute("rx", "1.5vw");
 back.setAttribute("fill", `#d9d9d9`);
 
 const paddedWidth = backWidth * 0.9;
